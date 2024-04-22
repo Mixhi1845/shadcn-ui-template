@@ -6,9 +6,16 @@
   },
   "SiteHeader": {
     "discover": "Discover",
-    "shop": "Shop",
+    "store": "Store",
     "newsletter": "Newsletter",
-    "about": "About"
+    "about": "About",
+    "buttonsm": "Search...",
+    "buttonlg": "Search page...",
+    "placeholdertext": "",
+    "empty": "Enter a command or search...",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
   },
   "SiteFooter": {
     "by": "Built by ",

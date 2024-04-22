@@ -6,9 +6,16 @@
   },
   "SiteHeader": {
     "discover": "Entdecken",
-    "shop": "Shop",
+    "store": "Shop",
     "newsletter": "Über uns",
-    "about": "Über uns"
+    "about": "Über uns",
+    "buttonsm": "Suchen...",
+    "buttonlg": "Seite suchen...",
+    "placeholdertext": "",
+    "empty": "Geben Sie einen Befehl ein oder suchen Sie...",
+    "light": "Hell",
+    "dark": "Dunkel",
+    "system": "System"
   },
   "SiteFooter": {
     "by": "Entwickelt von ",
