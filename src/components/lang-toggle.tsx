@@ -27,14 +27,8 @@ export function LangToggle() {
           <Link href="/en">
             <DropdownMenuItem>🇺🇸 English</DropdownMenuItem>
           </Link>
-          <Link href="/es">
-            <DropdownMenuItem>🇪🇸 Spanish</DropdownMenuItem>
-          </Link>
           <Link href="/de">
             <DropdownMenuItem>🇩🇪 German</DropdownMenuItem>
-          </Link>
-          <Link href="/imprint">
-            <DropdownMenuItem>Impressum | Imprint</DropdownMenuItem>
           </Link>
         </DropdownMenuContent>
       </DropdownMenu>

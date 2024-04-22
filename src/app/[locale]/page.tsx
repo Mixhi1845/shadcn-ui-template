@@ -20,13 +20,10 @@ export default function IndexPage() {
       <PageHeader>
         <Announcement />
         <PageHeaderHeading>{t("title")}</PageHeaderHeading>
-        <PageHeaderDescription>
-          Beautifully designed components that you can copy and paste into your
-          apps. Accessible. Customizable. Open Source.
-        </PageHeaderDescription>
+        <PageHeaderDescription>{t("desc")}</PageHeaderDescription>
         <PageActions>
           <Link href="/docs" className={cn(buttonVariants())}>
-            Get Started
+            {t("start")}
           </Link>
           <Link
             target="_blank"
