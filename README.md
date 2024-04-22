@@ -1,6 +1,6 @@
 # shadcn/ui Next.js Website Template
 
-<img src="https://github.com/Mixhi1845/shadcn-ui-template/blob/master/public/mockup.webp?raw=true" alt="Hero Section Image of the shadcn/ui Next.js Website Template" style="max-width: 100%; height: auto; width: 1000px;">
+<img src="https://github.com/Mixhi1845/shadcn-ui-template/blob/master/public/mockup.png?raw=true" alt="Hero Section Image of the shadcn/ui Next.js Website Template" style="max-width: 100%; height: auto; width: 1000px;">
 
 This is a Next.js website template that includes the following features:
 
@@ -20,7 +20,7 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 To get a local copy up and running, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/bavaria-data-website.git
+1. Clone the repository
 2. Install dependencies: npm install
 3. Set up the required environment variables (refer to the .env.example file)
 4. Start the development server: npm start
