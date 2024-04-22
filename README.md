@@ -1,5 +1,7 @@
 # shadcn/ui Next.js Website Template
 
+<img src="https://github.com/Mixhi1845/shadcn-ui-template/blob/master/public/mockup.webp?raw=true" alt="Hero Section Image of the shadcn/ui Next.js Website Template" style="max-width: 100%; height: auto; width: 1000px;">
+
 This is a Next.js website template that includes the following features:
 
 ## Features
